@@ -16,7 +16,7 @@
   <dependencies>
     <dependency>
       <groupId>com.wulizhou</groupId>
-      <artifactId>ct-log-autoconfigue</artifactId>
+      <artifactId>ct-log-core</artifactId>
     </dependency>
   </dependencies>
 </project>

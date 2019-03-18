@@ -1,1 +1,1 @@
-provides: ct-log-autoconfigure
+provides: ct-log-autoconfigure,ct-log-core
