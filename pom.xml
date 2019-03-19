@@ -12,6 +12,7 @@
 		<module>ct-log-autoconfigue</module>
 		<module>ct-log-core</module>
 	</modules>
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
